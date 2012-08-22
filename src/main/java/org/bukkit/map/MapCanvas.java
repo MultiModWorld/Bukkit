@@ -70,7 +70,7 @@ public interface MapCanvas {
     /**
      * Render text to the map using fancy formatting. Newline (\n) characters
      * will move down one line and return to the original column, and the text
-     * color can be changed using sequences such as "§12;", replacing 12 with
+     * color can be changed using sequences such as (removed) replacing 12 with
      * the palette index of the color (see {@link MapPalette}).
      *
      * @param x The column to start rendering on.
