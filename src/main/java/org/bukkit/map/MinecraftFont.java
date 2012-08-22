@@ -1,4 +1,4 @@
-package org.bukkit.map;
+﻿package org.bukkit.map;
 
 /**
  * Represents the built-in Minecraft font.
